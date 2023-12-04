@@ -72,7 +72,6 @@
 **Technical skills used**: <strong>Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn (classification models)</strong>
 
 ---
-![Profile views](https://gpvc.arturio.dev/vmngo)</br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vmngo&show_icons=true) </br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=madi82&show_icons=true) </br>
 
 
