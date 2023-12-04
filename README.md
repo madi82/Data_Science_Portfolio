@@ -14,7 +14,7 @@
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/> </a> </p>
 
 
-# [Project 1: Analyzing Borrower’s Risk of Defaulting](https://github.com/vmngo/my-projects/blob/main/Project%201.ipynb)
+# [Project 1: Analyzing Borrower’s Risk of Defaulting](https://github.com/madi82/Data_Science/blob/main/Project%201.ipynb)
 * Preprocessed data to identify and fill in missing values
 * Outlier detection and removal
 * Deleted duplicated data
