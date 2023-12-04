@@ -49,7 +49,7 @@
 **Technical skills used**: <strong>Pandas, SciPy, Matplotlib, Seaborn</strong>
 
 --------------
-# [Project 6: Machine Learning for Phone Plans](https://github.com/vmngo/my-projects/blob/main/Project%206.ipynb)
+# [Project 4: Machine Learning for Phone Plans](https://github.com/madi82/Data_Science/blob/main/Project%204.ipynb)
 * Developed a model that analyzes subscribers’ behavior and recommended one of Megaline’s newer phone plans
 * Created a model with the highest possible accuracy using a threshold accuracy of 0.75
 * Tuned hyperparameters to identify values that would give the highest accuracy rate
@@ -60,7 +60,7 @@
 **Technical skills used**: <strong>Pandas, NumPy, Scikit-learn (classification models), Classification report</strong>
 
 --------------
-# [Project 7: Predicting a Bank’s Customer’s Behavior](https://github.com/vmngo/my-projects/blob/main/Project%207.ipynb) 
+# [Project 5: Predicting a Bank’s Customer’s Behavior](https://github.com/madi82/Data_Science/blob/main/Project%205.ipynb) 
 * Avoided the dummy feature trap by encoding categorical features using One-Hot Encoding
 * Standardized numerical features
 * Used three different techniques to fix class imbalance: upsampling, downsampling, and adjusting class weight
