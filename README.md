@@ -21,7 +21,7 @@
 * Categorized data to test hypotheses
 * Built a report for the bank’s loan division to identify whether certain factors would impact a customer’s credit worthiness 
 
-  <img src="https://github.com/vmngo/images/blob/main/project1.png" width="250" height="250"/>
+  <img src="https://github.com/madi82/Data_Science/blob/main/project1.png" width="250" height="250"/>
 
 **Technical skills used**: <strong>Pandas, Matplotlib, NumPy</strong>
 
@@ -33,7 +33,7 @@
 * Analyzed numbers of ads and average price for each type of vehicle  
 * Determined which factors impacted price the most by testing different hypotheses
 
-  <img src="https://github.com/vmngo/images/blob/main/project2.png" width="250" height="250"/>
+  <img src="https://github.com/madi82/Data_Science/blob/main/project2.png" width="250" height="250"/>
 
 **Technical skills used**: <strong>Pandas, Seaborn, Matplotlib</strong>
 
@@ -44,7 +44,7 @@
 * Explored and analyzed data using different graphs to describe customers’ behavior
 * Tested hypotheses using with a t-test and significance level of 0.05
 
-  <img src="https://github.com/vmngo/images/blob/main/project3.png" width="250" height="250"/>
+  <img src="https://github.com/madi82/Data_Science/blob/main/project3.png" width="250" height="250"/>
 
 **Technical skills used**: <strong>Pandas, SciPy, Matplotlib, Seaborn</strong>
 
@@ -55,7 +55,7 @@
 * Tuned hyperparameters to identify values that would give the highest accuracy rate
 * Performed a sanity check for the model
 
-  <img src="https://github.com/vmngo/images/blob/main/project6.png" width="250" height="250"/>
+  <img src="https://github.com/madi82/Data_Science/blob/main/project4.png" width="250" height="250"/>
 
 **Technical skills used**: <strong>Pandas, NumPy, Scikit-learn (classification models), Classification report</strong>
 
@@ -67,7 +67,7 @@
 * Used machine learning to predict whether a customer will leave the bank
 * Built a model with the maximum possible F1 score using a threshold score of at least 0.59 
 
-  <img src="https://github.com/vmngo/images/blob/main/project7.png" width="250" height="250"/>
+  <img src="https://github.com/madi82/Data_Science/blob/main/project5.png" width="250" height="250"/>
 
 **Technical skills used**: <strong>Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn (classification models)</strong>
 
